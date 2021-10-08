@@ -17,7 +17,7 @@ hr{height: 0px;width: 95%;margin: auto;}
 
 
 /*main_container start*/
-#main_container{display: grid;grid-template-columns: auto;grid-template-rows: auto auto auto auto;grid-gap: 15px;width: 100%;height: 100vh;padding: 10px 0px 10px 0px !important;justify-content: center;}
+#main_container{display: grid;grid-template-columns: auto;grid-template-rows: auto auto auto auto;grid-gap: 15px;width: 100%;height: 100vh;padding: 20.5px 0px 10px 0px !important;justify-content: center;}
 
 
 /*left_container start*/
