@@ -1,0 +1,3 @@
+body{display: grid;height: 100vh;align-content: center;}
+.unsupported{display: block;text-align: center;}
+#main_container{display: none;}
